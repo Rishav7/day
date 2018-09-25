@@ -1,0 +1,52 @@
+questions   
+Write a program to get a number from the user and print it?
+What is #include <stdio.h>?
+What is printf?
+What is main?
+What is a variable?
+What is type of a variable?
+What & operator?
+What is %d in printf and scanf?
+What is the meaning of compilation of a program?
+What is the meaning of running a program?
+List all syntax errors and reasons for the syntax errors.
+
+
+
+
+
+
+
+
+2.   #include<stdio.h> is a directive to the C preprocessor. Lines beginning with # are processed by the preprocessor
+     before the program is compiled. Line 3 tells the preprocessor to include the contents
+      of the standard input/output header (<stdio.h>) in the program. This header contains
+     information used by the compiler when compiling calls to standard input/output library
+      functions such as printf.
+3.    printf function printf() function in C language: In C programming language.
+      printf() function is used to print the “character, string, float, integer, octal and hexadecimal values” onto the output screen.
+
+4.   main func() is a part of every C program. The parentheses after main indicate that main is a program
+      building block called a function.
+      
+ 5.   A variable is nothing but a name given to a storage area that our programs can manipulate. Each variable in C has a specific type, which determines the size and layout of the variable's memory; the range of values that can be stored within that memory; and the set of operations that can be applied to the variable.
+ 
+ 6.  1	
+    char
+
+      Typically a single octet(one byte). This is an integer type.
+
+     2int The most natural size of integer for the machine.
+
+       3	
+       float
+
+        A single-precision floating point value.
+       4 
+       double
+
+        A double-precision floating point value.
+        
+        
+   7. & operator is use adress the location in c.
+   8.
