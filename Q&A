@@ -1,0 +1,15 @@
+1.    #include is a file containing C declarations . This header contains
+      information used by the compiler when compiling calls to standard input/output library
+       functions such as printf.
+       
+       
+ 2.  printf function is used to print the values in c program.    
+ 
+ 
+ 
+ 3. main function is  a part of every C program. The parentheses after main indicate that main is a program
+building block called a function. C programs contain one or more functions, one of which
+must be main.
+
+
+4.Touch typing (also called touch type or touch keyboarding) is typing without using the sense of sight to find the keys. Specifically, a touch typist will know their location on the keyboard through muscle memory. ... The keyboard is called a QWERTY keyboard because these are the first six letters on the keyboard.
